@@ -1,0 +1,3 @@
+Base application to test bluetooth, record and replay messages.
+Should be able to "mock" any BT device.
+To be extended to become usefull...
